@@ -1,0 +1,12 @@
+# DBeaver Metadata
+.dbeaver/
+**/.dbeaver/
+
+# DBeaver Backup & Credentials (보안 중요)
+*.bak
+credentials-config.json
+data-sources.json
+
+# 만약 특정 폴더(day01) 안에 있는 것만 지칭하고 싶다면
+
+.metadata
